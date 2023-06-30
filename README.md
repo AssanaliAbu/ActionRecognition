@@ -6,3 +6,7 @@ Used pose recognition tools : Mediapipe, HRNet.
 Accieved accuracy: 93% (KTH), 85%(JHMDB). 
 
 Also testing the Flower federated learning framework which allows to concurrently train a model using more than 1 device and share  weights between devices.
+
+Below is the pose estimation of a boxing video sample in the KTH dataset. The pose keypoints (coordinates) are then used as a training data.
+
+![](https://github.com/AssanaliAbu/ActionRecognition/blob/main/ezgif.com-crop.gif)
