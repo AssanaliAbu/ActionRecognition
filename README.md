@@ -1,5 +1,6 @@
 # Skeleton-based Human Action Recognition
 Training and evaluating DD-Net (1D CNN) and Transformer models on 2 different video datasets KTH and JHMDB. 
+
 Used pose recognition tools : Mediapipe, HRNet.
 
 Accieved accuracy: 93% (KTH), 85%(JHMDB). 
